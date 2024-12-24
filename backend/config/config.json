@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "jaguarsmpr",
+    "database": "collaborative_storytelling",
+    "host": "localhost",
+    "dialect": "postgres" 
+  },
+  "test": {
+    "username": "postgres",
+    "password": "jaguarsmpr",
+    "database": "collaborative_storytelling",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "jaguarsmpr",
+    "database": "collaborative_storytelling",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
